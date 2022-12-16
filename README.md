@@ -1,2 +1,5 @@
-# banco_de_dados_tarefas
-repositório destinado ao armazenamento de atividades de bancos de dados
+## Tarefas 
+Repositório destinado ao armazenamento de tarefas de bancos de dados
+
+### Tarefa 1
+Criação de MER e DER dado uma situação problema.
