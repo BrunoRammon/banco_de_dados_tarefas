@@ -57,7 +57,7 @@ alter table clientes rename column email to email_cliente;
 alter table clientes alter column nm_cliente type varchar(200);
 
 -- Adicionar uma coluna na tabela.
-alter table clientes add column telefone type varchar(20);
+alter table clientes add column telefone varchar(20);
 
 -- Deletar uma coluna na tabela.
 alter table clientes drop column telefone;

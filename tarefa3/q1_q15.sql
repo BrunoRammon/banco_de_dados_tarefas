@@ -43,7 +43,7 @@ alter table alunos
 -- Falso
 
 -- Questão 12
--- Falso
+-- Verdadeiro
 
 -- Questão 13
 -- Falso
