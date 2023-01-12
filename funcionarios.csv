@@ -1,0 +1,1001 @@
+cd_funcionario,nm_funcionario,cargo,sexo,cd_superior,dt_nascimento,dt_admissao
+1001,Isaac Ribeiro,vendedor,M,1002,2000-01-01,2022-01-01
+1002,Anthony Cunha,supervisor,M,1003,1977-03-05,2022-01-02
+1003,Gustavo Cavalcanti,gerente,M,,1979-03-05,2020-01-03
+1004,Felipe Carvalho,vendedor,M,1497,2000-01-02,2022-01-04
+1005,Luigi Oliveira,vendedor,M,1002,2000-01-03,2022-01-05
+1006,Rafael da Cruz,vendedor,M,1497,2000-01-04,2022-01-06
+1007,Nicolas Ferreira,vendedor,M,1498,2000-01-05,2022-01-07
+1008,Arthur Moreira,vendedor,M,1499,2000-01-06,2022-01-08
+1009,Luiz Fernando Carvalho,vendedor,M,1500,2000-01-07,2022-01-09
+1010,Diego Lima,vendedor,M,1501,2000-01-08,2022-01-10
+1011,Sr. Raul da Rosa,vendedor,M,1502,2000-01-09,2022-01-11
+1012,Nicolas Nascimento,vendedor,M,1503,2000-01-10,2022-01-12
+1013,Paulo Nascimento,vendedor,M,1504,2000-01-11,2022-01-13
+1014,Francisco Costa,vendedor,M,1505,2000-01-12,2022-01-14
+1015,Sr. Marcos Vinicius Silva,vendedor,M,1002,2000-01-13,2022-01-15
+1016,Leonardo Dias,vendedor,M,1497,2000-01-14,2022-01-16
+1017,Thales da Costa,vendedor,M,1002,2000-01-15,2022-01-17
+1018,Dr. Juan Campos,vendedor,M,1497,2000-01-16,2022-01-18
+1019,Luiz Felipe Carvalho,vendedor,M,1497,2000-01-17,2022-01-19
+1020,Yuri Ferreira,vendedor,M,1498,2000-01-18,2022-01-20
+1021,Caio das Neves,vendedor,M,1499,2000-01-19,2022-01-21
+1022,Matheus da Conceição,vendedor,M,1500,2000-01-20,2022-01-22
+1023,Pedro Lucas Barros,vendedor,M,1501,2000-01-21,2022-01-23
+1024,Sr. João Gabriel Sales,vendedor,M,1502,2000-01-22,2022-01-24
+1025,Ian Jesus,vendedor,M,1503,2000-01-23,2022-01-25
+1026,Dr. Heitor Aragão,vendedor,M,1504,2000-01-24,2022-01-26
+1027,Gustavo Henrique Ferreira,vendedor,M,1505,2000-01-25,2022-01-27
+1028,João Gabriel Farias,vendedor,M,1497,2000-01-26,2022-01-28
+1029,Yuri Cardoso,vendedor,M,1498,2000-01-27,2022-01-29
+1030,Leonardo Caldeira,vendedor,M,1499,2002-03-06,2022-01-30
+1031,Theo Ribeiro,vendedor,M,1500,2002-03-07,2022-01-31
+1032,Pedro Henrique Barbosa,vendedor,M,1501,2002-03-08,2022-02-01
+1033,Sr. Gabriel Jesus,vendedor,M,1502,2002-03-09,2022-02-02
+1034,Leonardo Oliveira,vendedor,M,1503,2002-03-10,2022-02-03
+1035,Dr. Paulo Jesus,vendedor,M,1504,2002-03-11,2022-02-04
+1036,Paulo Cavalcanti,vendedor,M,1505,2002-03-12,2022-02-05
+1037,Lucas Gabriel Cardoso,vendedor,M,1502,2002-03-13,2022-02-06
+1038,Sr. Cauê Cunha,vendedor,M,1503,2002-03-14,2022-02-07
+1039,Raul Barros,vendedor,M,1504,2002-03-15,2022-02-08
+1040,Pedro Ramos,vendedor,M,1505,2002-03-16,2022-02-09
+1041,Murilo Castro,vendedor,M,1497,2002-03-17,2022-02-10
+1042,Dr. Breno Alves,vendedor,M,1498,2002-03-18,2022-02-11
+1043,Vitor Hugo Santos,vendedor,M,1499,2002-03-19,2022-02-12
+1044,Emanuel da Luz,vendedor,M,1500,2002-03-20,2022-02-13
+1045,Sr. Vitor Farias,vendedor,M,1502,2002-03-21,2022-02-14
+1046,Gustavo Henrique Nascimento,vendedor,M,1503,2002-03-22,2022-02-15
+1047,Sr. Vinicius Aragão,vendedor,M,1504,2002-03-23,2022-02-16
+1048,Juan Costela,vendedor,M,1505,2002-03-24,2022-02-17
+1049,Alexandre da Cunha,vendedor,M,1497,2002-03-25,2022-02-18
+1050,Nathan Campos,vendedor,M,1498,2002-03-26,2022-02-19
+1051,Vitor Gabriel da Mata,vendedor,M,1499,2002-03-27,2022-02-20
+1052,Augusto Cunha,vendedor,M,1500,2002-03-28,2022-02-21
+1053,Vitor Gabriel das Neves,vendedor,M,1497,2002-03-29,2022-02-22
+1054,Luiz Miguel Nascimento,vendedor,M,1498,2002-03-30,2022-02-23
+1055,Sr. Kaique Gomes,vendedor,M,1499,2002-03-31,2022-02-24
+1056,Isaac da Conceição,vendedor,M,1500,2002-04-01,2022-02-25
+1057,Lorenzo da Mota,vendedor,M,1497,2002-04-02,2022-02-26
+1058,Augusto Novaes,vendedor,M,1498,2002-04-03,2022-02-27
+1059,Dr. Cauê Carvalho,vendedor,M,1499,2002-04-04,2022-02-28
+1060,Davi Lucca Fogaça,vendedor,M,1500,2002-04-05,2022-03-01
+1061,Davi Luiz Azevedo,vendedor,M,1497,2002-04-06,2022-03-02
+1062,Henrique Costa,vendedor,M,1498,2002-04-07,2022-03-03
+1063,Luigi Barbosa,vendedor,M,1499,2002-04-08,2022-03-04
+1064,João Guilherme da Cruz,vendedor,M,1500,2002-04-09,2022-03-05
+1065,Felipe Oliveira,vendedor,M,1497,2002-04-10,2022-03-06
+1066,Pietro da Paz,vendedor,M,1498,2002-04-11,2022-03-07
+1067,Gustavo Henrique Almeida,vendedor,M,1499,2002-04-12,2022-03-08
+1068,Heitor Caldeira,vendedor,M,1500,2002-04-13,2022-03-09
+1069,Kevin Costela,vendedor,M,1501,2002-04-14,2022-03-10
+1070,Dr. Luiz Miguel Moraes,vendedor,M,1502,2002-04-15,2022-03-11
+1071,Davi Lucca Jesus,vendedor,M,1503,2002-04-16,2022-03-12
+1072,Pedro Lucas Souza,vendedor,M,1504,2002-04-17,2022-03-13
+1073,Sr. Thales da Rocha,vendedor,M,1505,2002-04-18,2022-03-14
+1074,Dr. Kaique Silveira,vendedor,M,1497,2002-04-19,2022-03-15
+1075,Diogo Sales,vendedor,M,1498,2002-04-20,2022-03-16
+1076,Marcos Vinicius Novaes,vendedor,M,1499,2002-04-21,2022-03-17
+1077,Daniel Araújo,vendedor,M,1500,2002-04-22,2022-03-18
+1078,Diogo Rezende,vendedor,M,1501,2002-04-23,2022-03-19
+1079,Noah Jesus,vendedor,M,1502,2002-04-24,2022-03-20
+1080,Dr. Noah Moraes,vendedor,M,1503,2002-04-25,2022-03-21
+1081,João Mendes,vendedor,M,1504,2002-04-26,2022-03-22
+1082,João Miguel Mendes,vendedor,M,1505,2002-04-27,2022-03-23
+1083,Enzo Peixoto,vendedor,M,1502,2002-04-28,2022-03-24
+1084,Cauã Aragão,vendedor,M,1503,2002-04-29,2022-03-25
+1085,Sr. João Lucas Mendes,vendedor,M,1504,2002-04-30,2022-03-26
+1086,Juan Silveira,vendedor,M,1505,2002-05-01,2022-03-27
+1087,Kaique Porto,vendedor,M,1497,2002-05-02,2022-03-28
+1088,João Gabriel Freitas,vendedor,M,1498,2002-05-03,2022-03-29
+1089,Fernando Carvalho,vendedor,M,1499,2002-05-04,2022-03-30
+1090,Samuel Lima,vendedor,M,1500,2002-05-05,2022-03-31
+1091,João Gabriel Silveira,vendedor,M,1502,2002-05-06,2022-04-01
+1092,Vinicius Jesus,vendedor,M,1503,2002-05-07,2022-04-02
+1093,Kaique da Cruz,vendedor,M,1504,1998-07-01,2022-04-03
+1094,Noah Cardoso,vendedor,M,1505,1998-07-02,2022-04-04
+1095,Matheus Mendes,vendedor,M,1497,1998-07-03,2022-04-05
+1096,Renan Rodrigues,vendedor,M,1498,1998-07-04,2022-04-06
+1097,Dr. Luiz Miguel Oliveira,vendedor,M,1499,1998-07-05,2022-04-07
+1098,Enrico Rezende,vendedor,M,1500,1998-07-06,2022-04-08
+1099,Pedro Lucas da Cruz,vendedor,M,1497,1998-07-07,2022-04-09
+1100,Murilo Cardoso,vendedor,M,1498,1998-07-08,2022-04-10
+1101,Sr. Cauê Freitas,vendedor,M,1499,1998-07-09,2022-04-11
+1102,Dr. Caio Correia,vendedor,M,1500,1998-07-10,2022-04-12
+1103,Sr. Yago Freitas,vendedor,M,1497,1998-07-11,2022-04-13
+1104,Theo Freitas,vendedor,M,1498,1998-07-12,2022-04-14
+1105,Dr. Nicolas das Neves,vendedor,M,1499,1998-07-13,2022-04-15
+1106,Dr. Miguel da Rocha,vendedor,M,1500,1998-07-14,2022-04-16
+1107,Benício Caldeira,vendedor,M,1497,1998-07-15,2020-04-17
+1108,Isaac Souza,vendedor,M,1498,1998-07-16,2020-04-18
+1109,Enzo Carvalho,vendedor,M,1499,1998-07-17,2020-04-19
+1110,Vitor da Mata,vendedor,M,1500,1998-07-18,2020-04-20
+1111,Ian Lopes,vendedor,M,1497,1998-07-19,2020-04-21
+1112,Dr. Luigi Almeida,vendedor,M,1498,1998-07-20,2020-04-22
+1113,Bruno Pereira,vendedor,M,1499,1998-07-21,2020-04-23
+1114,Samuel Moreira,vendedor,M,1500,1998-07-22,2020-04-24
+1115,Yuri Nogueira,vendedor,M,1501,1998-07-23,2020-04-25
+1116,Dr. Breno Lima,vendedor,M,1502,1998-07-24,2020-04-26
+1117,Davi Lucca Barbosa,vendedor,M,1503,1998-07-25,2020-04-27
+1118,João Pedro Moraes,vendedor,M,1504,1998-07-26,2020-04-28
+1119,Dr. Matheus Moreira,vendedor,M,1505,1998-07-27,2020-04-29
+1120,Luiz Miguel Cardoso,vendedor,M,1497,1998-07-28,2020-04-30
+1121,Luiz Gustavo da Rocha,vendedor,M,1498,1998-07-29,2022-05-01
+1122,Igor Farias,vendedor,M,1499,1998-07-30,2022-05-02
+1123,Dr. Joaquim da Conceição,vendedor,M,1500,1998-07-31,2022-05-03
+1124,Sr. Davi Luiz Campos,vendedor,M,1501,1998-08-01,2022-05-04
+1125,Vitor da Paz,vendedor,M,1502,1998-08-02,2022-05-05
+1126,João Gabriel Moraes,vendedor,M,1503,1998-08-03,2022-05-06
+1127,João Lucas Gomes,vendedor,M,1504,1998-08-04,2022-05-07
+1128,Lorenzo da Mota,vendedor,M,1505,1998-08-05,2022-05-08
+1129,Leandro Alves,vendedor,M,1502,1998-08-06,2022-05-09
+1130,Benício Ramos,vendedor,M,1503,1998-08-07,2022-05-10
+1131,Leonardo Vieira,vendedor,M,1504,1998-08-08,2022-05-11
+1132,Guilherme Fernandes,vendedor,M,1505,1998-08-09,2022-05-12
+1133,Joaquim Ferreira,vendedor,M,1497,1998-08-10,2022-05-13
+1134,Leonardo da Cruz,vendedor,M,1498,1998-08-11,2022-05-14
+1135,Emanuel Gomes,vendedor,M,1499,1998-08-12,2022-05-15
+1136,Rafael Azevedo,vendedor,M,1500,1998-08-13,2022-05-16
+1137,Cauã Nascimento,vendedor,M,1502,1998-08-14,2022-05-17
+1138,Enzo Gabriel Porto,vendedor,M,1503,1998-08-15,2022-05-18
+1139,Gabriel da Cunha,vendedor,M,1504,1998-08-16,2022-05-19
+1140,Diego Nunes,vendedor,M,1505,1998-08-17,2022-05-20
+1141,Nicolas Barbosa,vendedor,M,1497,1998-08-18,2022-05-21
+1142,Henrique Monteiro,vendedor,M,1498,1998-08-19,2022-05-22
+1143,Sr. Benício Pinto,vendedor,M,1499,1998-08-20,2022-05-23
+1144,Marcos Vinicius Pires,vendedor,M,1500,1998-08-21,2022-05-24
+1145,Bernardo da Costa,vendedor,M,1497,1998-08-22,2022-05-25
+1146,Dr. João Alves,vendedor,M,1498,1998-08-23,2022-05-26
+1147,Eduardo Duarte,vendedor,M,1499,1998-08-24,2022-05-27
+1148,Marcos Vinicius da Conceição,vendedor,M,1500,1998-08-25,2022-05-28
+1149,Luiz Gustavo da Rocha,vendedor,M,1497,1998-08-26,2022-05-29
+1150,Davi Mendes,vendedor,M,1498,1998-08-27,2022-05-30
+1151,Leonardo Gomes,vendedor,M,1499,1998-08-28,2022-05-31
+1152,João Lucas Farias,vendedor,M,1500,1998-08-29,2022-06-01
+1153,Otávio Vieira,vendedor,M,1497,1998-08-30,2022-06-02
+1154,Sr. Paulo Aragão,vendedor,M,1498,1998-08-31,2022-06-03
+1155,Francisco Pires,vendedor,M,1499,1998-09-01,2022-06-04
+1156,Dr. Cauê Martins,vendedor,M,1500,1998-09-02,2022-06-05
+1157,Erick Martins,vendedor,M,1497,1998-09-03,2022-06-06
+1158,Luiz Felipe Oliveira,vendedor,M,1498,1998-09-04,2022-06-07
+1159,Nicolas da Paz,vendedor,M,1499,1998-09-05,2022-06-08
+1160,Dr. Cauê Silveira,vendedor,M,1500,1998-09-06,2022-06-09
+1161,Thomas Caldeira,vendedor,M,1501,1998-09-07,2022-06-10
+1162,Luiz Otávio Ferreira,vendedor,M,1502,1998-09-08,2022-06-11
+1163,Ian Rodrigues,vendedor,M,1503,1998-09-09,2022-06-12
+1164,Marcelo Caldeira,vendedor,M,1504,1998-09-10,2022-06-13
+1165,Dr. Noah Rocha,vendedor,M,1505,1998-09-11,2022-06-14
+1166,Arthur Barbosa,vendedor,M,1497,1998-09-12,2022-06-15
+1167,Leonardo Cardoso,vendedor,M,1498,1998-09-13,2022-06-16
+1168,Caio Correia,vendedor,M,1499,1998-09-14,2022-06-17
+1169,João Vitor Lima,vendedor,M,1500,1998-09-15,2022-06-18
+1170,Noah Dias,vendedor,M,1501,1998-09-16,2022-06-19
+1171,Diego Oliveira,vendedor,M,1502,1998-09-17,2022-06-20
+1172,Pietro Caldeira,vendedor,M,1503,1998-09-18,2022-06-21
+1173,Pedro Vieira,vendedor,M,1504,1995-01-15,2022-06-22
+1174,Augusto Caldeira,vendedor,M,1505,1995-01-16,2022-06-23
+1175,Luiz Otávio Rocha,vendedor,M,1502,1995-01-17,2022-06-24
+1176,João Lucas Vieira,vendedor,M,1503,1995-01-18,2022-06-25
+1177,Marcelo Silva,vendedor,M,1504,1995-01-19,2022-06-26
+1178,Gabriel Moraes,vendedor,M,1505,1995-01-20,2022-06-27
+1179,Diego Santos,vendedor,M,1497,1995-01-21,2022-06-28
+1180,Miguel Castro,vendedor,M,1498,1995-01-22,2022-06-29
+1181,Guilherme Costela,vendedor,M,1499,1995-01-23,2022-06-30
+1182,Calebe Oliveira,vendedor,M,1500,1995-01-24,2022-07-01
+1183,Luiz Felipe Viana,vendedor,M,1502,1995-01-25,2022-07-02
+1184,Sr. Cauê Ferreira,vendedor,M,1503,1995-01-26,2022-07-03
+1185,Davi Luiz Ribeiro,vendedor,M,1504,1995-01-27,2022-07-04
+1186,Benício da Rosa,vendedor,M,1505,1995-01-28,2022-07-05
+1187,Dr. Gustavo Henrique Costela,vendedor,M,1497,1995-01-29,2022-07-06
+1188,João Lucas Porto,vendedor,M,1498,1995-01-30,2022-07-07
+1189,Luiz Otávio Ferreira,vendedor,M,1499,1995-01-31,2022-07-08
+1190,Dr. Erick Gonçalves,vendedor,M,1500,1995-02-01,2022-07-09
+1191,Fernando da Rosa,vendedor,M,1497,1995-02-02,2022-07-10
+1192,Vitor Pinto,vendedor,M,1498,1995-02-03,2022-07-11
+1193,Gustavo Henrique Barbosa,vendedor,M,1499,1995-02-04,2022-07-12
+1194,Davi Lucca Almeida,vendedor,M,1500,1995-02-05,2022-07-13
+1195,Theo da Conceição,vendedor,M,1497,1995-02-06,2022-07-14
+1196,Felipe da Conceição,vendedor,M,1498,1995-02-07,2022-07-15
+1197,Enzo Moraes,vendedor,M,1499,1995-02-08,2022-07-16
+1198,Thiago Moraes,vendedor,M,1500,1995-02-09,2022-07-17
+1199,Marcos Vinicius Almeida,vendedor,M,1497,1995-02-10,2022-07-18
+1200,Pedro Lucas Nascimento,vendedor,M,1498,1995-02-11,2022-07-19
+1201,Enrico da Cunha,vendedor,M,1499,1995-02-12,2022-07-20
+1202,João Gabriel Farias,vendedor,M,1500,1995-02-13,2022-07-21
+1203,Felipe Almeida,vendedor,M,1497,1995-02-14,2022-07-22
+1204,João Miguel Pereira,vendedor,M,1498,1995-02-15,2022-07-23
+1205,Eduardo Barros,vendedor,M,1499,1995-02-16,2022-07-24
+1206,Bruno Moreira,vendedor,M,1500,1995-02-17,2022-07-25
+1207,Carlos Eduardo Lima,vendedor,M,1501,1995-02-18,2022-07-26
+1208,Heitor Araújo,vendedor,M,1502,1995-02-19,2022-07-27
+1209,Sr. Otávio Gomes,vendedor,M,1503,1995-02-20,2022-07-28
+1210,João da Rocha,vendedor,M,1504,1995-02-21,2022-07-29
+1211,João Cunha,vendedor,M,1505,1995-02-22,2022-07-30
+1212,Davi Lucas Monteiro,vendedor,M,1497,1995-02-23,2022-07-31
+1213,Diego Rezende,vendedor,M,1498,1995-02-24,2022-08-01
+1214,Sr. Vicente Almeida,vendedor,M,1499,1995-02-25,2022-08-02
+1215,Felipe Oliveira,vendedor,M,1500,1995-02-26,2022-08-03
+1216,Arthur Barros,vendedor,M,1501,1995-02-27,2022-08-04
+1217,Luiz Henrique Teixeira,vendedor,M,1502,1995-02-28,2015-08-05
+1218,Daniel Gonçalves,vendedor,M,1503,1995-03-01,2015-08-06
+1219,Rodrigo Moura,vendedor,M,1504,1995-03-02,2015-08-07
+1220,Emanuel Silva,vendedor,M,1505,1995-03-03,2015-08-08
+1221,Leandro da Rocha,vendedor,M,1502,1995-03-04,2015-08-09
+1222,Henrique da Costa,vendedor,M,1503,1995-03-05,2015-08-10
+1223,Renan Viana,vendedor,M,1504,1995-03-06,2015-08-11
+1224,Henrique Farias,vendedor,M,1505,1995-03-07,2015-08-12
+1225,Eduardo Costa,vendedor,M,1497,1995-03-08,2015-08-13
+1226,Sr. Davi Santos,vendedor,M,1498,1995-03-09,2015-08-14
+1227,Joaquim da Paz,vendedor,M,1499,1995-03-10,2015-08-15
+1228,Guilherme Rezende,vendedor,M,1500,1995-03-11,2015-08-16
+1229,Cauã Barbosa,vendedor,M,1502,1995-03-12,2015-08-17
+1230,Sr. Isaac Farias,vendedor,M,1503,1995-03-13,2015-08-18
+1231,André Gomes,vendedor,M,1504,1995-03-14,2015-08-19
+1232,Yuri Dias,vendedor,M,1505,1995-03-15,2015-08-20
+1233,Yuri da Conceição,vendedor,M,1497,1995-03-16,2015-08-21
+1234,Felipe Aragão,vendedor,M,1498,1995-03-17,2015-08-22
+1235,Yuri Souza,vendedor,M,1499,1995-03-18,2015-08-23
+1236,Kaique da Mata,vendedor,M,1500,1995-03-19,2015-08-24
+1237,Pedro Henrique Monteiro,vendedor,M,1497,1995-03-20,2015-08-25
+1238,Leonardo Cardoso,vendedor,M,1498,1995-03-21,2015-08-26
+1239,Dr. Thiago Fernandes,vendedor,M,1499,1995-03-22,2015-08-27
+1240,João Guilherme Novaes,vendedor,M,1500,1995-03-23,2015-08-28
+1241,Sr. Kaique Carvalho,vendedor,M,1497,1995-03-24,2015-08-29
+1242,Noah Nogueira,vendedor,M,1498,1995-03-25,2015-08-30
+1243,Miguel Moreira,vendedor,M,1499,1995-03-26,2015-08-31
+1244,Noah Silveira,vendedor,M,1500,1995-03-27,2015-09-01
+1245,Sr. Samuel Araújo,vendedor,M,1497,1995-03-28,2015-09-02
+1246,Benício Rezende,vendedor,M,1498,1995-03-29,2015-09-03
+1247,Rodrigo Aragão,vendedor,M,1499,1995-03-30,2015-09-04
+1248,Felipe da Paz,vendedor,M,1500,1995-03-31,2015-09-05
+1249,Luiz Otávio Mendes,vendedor,M,1497,1995-04-01,2015-09-06
+1250,Yago da Costa,vendedor,M,1498,1995-04-02,2015-09-07
+1251,Dr. Arthur Novaes,vendedor,M,1499,1995-04-03,2015-09-08
+1252,João Felipe Farias,vendedor,M,1500,1995-04-04,2015-09-09
+1253,Sr. Heitor da Rocha,vendedor,M,1501,1995-04-05,2015-09-10
+1254,Thiago Ferreira,vendedor,M,1502,1995-04-06,2015-09-11
+1255,Samuel Cavalcanti,vendedor,M,1503,1995-04-07,2015-09-12
+1256,Pedro Miguel Gomes,vendedor,M,1504,1995-04-08,2015-09-13
+1257,João Vitor Carvalho,vendedor,M,1505,1995-04-09,2015-09-14
+1258,Rodrigo Mendes,vendedor,M,1497,1995-04-10,2015-09-15
+1259,Sr. Nathan Vieira,vendedor,M,1498,1995-04-11,2015-09-16
+1260,Davi Lucca Silveira,vendedor,M,1499,1995-04-12,2015-09-17
+1261,Leandro Azevedo,vendedor,M,1500,1995-04-13,2015-09-18
+1262,Vinicius Almeida,vendedor,M,1501,1995-04-14,2015-09-19
+1263,Theo Moraes,vendedor,M,1502,1995-04-15,2015-09-20
+1264,João Miguel Gonçalves,vendedor,M,1503,1995-04-16,2015-09-21
+1265,Marcelo Silva,vendedor,M,1504,1995-04-17,2015-09-22
+1266,Anthony da Costa,vendedor,M,1505,1995-04-18,2015-09-23
+1267,Yago Campos,vendedor,M,1502,1995-04-19,2015-09-24
+1268,Joaquim da Costa,vendedor,M,1503,1995-04-20,2015-09-25
+1269,Gustavo Lopes,vendedor,M,1504,1995-04-21,2015-09-26
+1270,Sr. Nicolas da Paz,vendedor,M,1505,1995-04-22,2015-09-27
+1271,Dr. Luiz Miguel Sales,vendedor,M,1497,1995-04-23,2015-09-28
+1272,Otávio da Cruz,vendedor,M,1498,1995-04-24,2015-09-29
+1273,Dr. Luigi Barros,vendedor,M,1499,1995-04-25,2015-09-30
+1274,Thales Dias,vendedor,M,1500,1995-04-26,2015-10-01
+1275,Lucca Azevedo,vendedor,M,1502,1995-04-27,2015-10-02
+1276,Calebe da Rocha,vendedor,M,1503,1995-04-28,2015-10-03
+1277,Bernardo Peixoto,vendedor,M,1504,1995-04-29,2015-10-04
+1278,Gabriel Pinto,vendedor,M,1505,1995-04-30,2015-10-05
+1279,Carlos Eduardo Barros,vendedor,M,1497,1995-05-01,2015-10-06
+1280,Diego Ribeiro,vendedor,M,1498,1995-05-02,2015-10-07
+1281,Gustavo Duarte,vendedor,M,1499,1995-05-03,2015-10-08
+1282,Gustavo Pinto,vendedor,M,1500,1995-05-04,2015-10-09
+1283,Dr. Pedro Henrique Nascimento,vendedor,M,1497,1995-05-05,2015-10-10
+1284,André Aragão,vendedor,M,1498,1995-05-06,2015-10-11
+1285,Noah Farias,vendedor,M,1499,1995-05-07,2015-10-12
+1286,Yuri Rocha,vendedor,M,1500,1995-05-08,2015-10-13
+1287,Kaique Barbosa,vendedor,M,1497,1995-05-09,2015-10-14
+1288,João Felipe da Rocha,vendedor,M,1498,1995-05-10,2015-10-15
+1289,Emanuel Nunes,vendedor,M,1499,1995-05-11,2015-10-16
+1290,Calebe Cavalcanti,vendedor,M,1500,1995-05-12,2015-10-17
+1291,João Vitor Fogaça,vendedor,M,1497,1995-05-13,2015-10-18
+1292,Raul Viana,vendedor,M,1498,1995-05-14,2015-10-19
+1293,Ian Souza,vendedor,M,1499,1995-05-15,2015-10-20
+1294,Sr. Juan Alves,vendedor,M,1500,1995-05-16,2015-10-21
+1295,Pedro Ribeiro,vendedor,M,1497,1995-05-17,2015-10-22
+1296,Leonardo das Neves,vendedor,M,1498,1995-05-18,2015-10-23
+1297,Dr. Erick Novaes,vendedor,M,1499,1995-05-19,2015-10-24
+1298,Cauã Pereira,vendedor,M,1500,1995-05-20,2015-10-25
+1299,Henrique da Luz,vendedor,M,1501,1995-05-21,2022-10-26
+1300,Luiz Henrique Duarte,vendedor,M,1502,1995-05-22,2022-10-27
+1301,Davi Lucas Jesus,vendedor,M,1503,1995-05-23,2022-10-28
+1302,Carlos Eduardo Moreira,vendedor,M,1504,1995-05-24,2022-10-29
+1303,Yago da Cruz,vendedor,M,1505,1995-05-25,2022-10-30
+1304,Dr. Heitor da Rosa,vendedor,M,1497,1995-05-26,2022-10-31
+1305,Igor Azevedo,vendedor,M,1498,1995-05-27,2022-11-01
+1306,Dr. Carlos Eduardo Araújo,vendedor,M,1499,1995-05-28,2022-11-02
+1307,Francisco Freitas,vendedor,M,1500,1995-05-29,2022-11-03
+1308,Dr. Rafael Pinto,vendedor,M,1501,1995-05-30,2022-11-04
+1309,André Ferreira,vendedor,M,1502,1995-05-31,2022-11-05
+1310,João Felipe Almeida,vendedor,M,1503,1995-06-01,2022-11-06
+1311,Juan Alves,vendedor,M,1504,1995-06-02,2022-11-07
+1312,Dr. Carlos Eduardo Jesus,vendedor,M,1505,1995-06-03,2022-11-08
+1313,Kaique Porto,vendedor,M,1502,1995-06-04,2022-11-09
+1314,Pedro Miguel Souza,vendedor,M,1503,1995-06-05,2022-11-10
+1315,Vitor da Mata,vendedor,M,1504,1995-06-06,2022-11-11
+1316,Dr. João Vitor da Cunha,vendedor,M,1505,1995-06-07,2022-11-12
+1317,Pietro Freitas,vendedor,M,1497,1995-06-08,2022-11-13
+1318,Arthur da Cunha,vendedor,M,1498,1995-06-09,2022-11-14
+1319,Ryan Araújo,vendedor,M,1499,1995-06-10,2022-11-15
+1320,Sr. Vinicius Nascimento,vendedor,M,1500,1995-06-11,2022-11-16
+1321,Felipe Ferreira,vendedor,M,1502,1995-06-12,2022-11-17
+1322,Paulo da Conceição,vendedor,M,1503,1995-06-13,2022-11-18
+1323,Luiz Miguel Melo,vendedor,M,1504,1995-06-14,2022-11-19
+1324,Dr. Luiz Felipe Santos,vendedor,M,1505,1995-06-15,2022-11-20
+1325,Theo Sales,vendedor,M,1497,1995-06-16,2022-11-21
+1326,Erick das Neves,vendedor,M,1498,1995-06-17,2022-11-22
+1327,Luiz Henrique da Cruz,vendedor,M,1499,1995-06-18,2022-11-23
+1328,Felipe da Paz,vendedor,M,1500,1995-06-19,2022-11-24
+1329,Sr. Marcos Vinicius Dias,vendedor,M,1497,1995-06-20,2022-11-25
+1330,Benjamin Monteiro,vendedor,M,1498,1995-06-21,2022-11-26
+1331,Enzo Gabriel Alves,vendedor,M,1499,1995-06-22,2022-11-27
+1332,Dr. Davi Lucca Farias,vendedor,M,1500,1991-10-01,2022-11-28
+1333,Luiz Felipe Gonçalves,vendedor,M,1497,1991-10-02,2022-11-29
+1334,Antônio Martins,vendedor,M,1498,1991-10-03,2022-11-30
+1335,João Pedro Carvalho,vendedor,M,1499,1991-10-04,2022-12-01
+1336,Thales Freitas,vendedor,M,1500,1991-10-05,2022-12-02
+1337,Leonardo Barros,vendedor,M,1497,1991-10-06,2022-12-03
+1338,João Pedro Cunha,vendedor,M,1498,1991-10-07,2022-12-04
+1339,Bernardo Rezende,vendedor,M,1499,1991-10-08,2022-12-05
+1340,Theo Fernandes,vendedor,M,1500,1991-10-09,2022-12-06
+1341,Danilo Lima,vendedor,M,1498,1991-10-10,2022-12-07
+1342,Francisco da Costa,vendedor,M,1499,1991-10-11,2022-12-08
+1343,Francisco Cardoso,vendedor,M,1500,1991-10-12,2022-12-09
+1344,João Vitor Martins,vendedor,M,1497,1991-10-13,2022-12-10
+1345,Alexandre Azevedo,vendedor,M,1498,1991-10-14,2022-12-11
+1346,Thales Costa,vendedor,M,1499,1991-10-15,2022-12-12
+1347,Theo Teixeira,vendedor,M,1500,1991-10-16,2022-12-13
+1348,Enrico Nascimento,vendedor,M,1497,1991-10-17,2022-12-14
+1349,Dr. Bernardo Vieira,vendedor,M,1498,1991-10-18,2022-12-15
+1350,Dr. Marcelo da Rosa,vendedor,M,1499,1991-10-19,2022-12-16
+1351,Dr. Davi Luiz Gomes,vendedor,M,1500,1991-10-20,2022-12-17
+1352,Carlos Eduardo Campos,vendedor,M,1497,1991-10-21,2022-12-18
+1353,Marcelo Rocha,vendedor,M,1498,1991-10-22,2022-12-19
+1354,Heitor Porto,vendedor,M,1499,1991-10-23,2022-12-20
+1355,Levi Melo,vendedor,M,1500,1991-10-24,2022-12-21
+1356,Enrico Oliveira,vendedor,M,1501,1991-10-25,2022-12-22
+1357,Marcelo Gonçalves,vendedor,M,1502,1991-10-26,2022-12-23
+1358,Luiz Gustavo Ferreira,vendedor,M,1503,1991-10-27,2022-12-24
+1359,Samuel Fernandes,vendedor,M,1504,1991-10-28,2022-12-25
+1360,Francisco Fernandes,vendedor,M,1505,1991-10-29,2022-12-26
+1361,Danilo Correia,vendedor,M,1497,1991-10-30,2022-12-27
+1362,Anthony Cunha,vendedor,M,1498,1991-10-31,2022-12-28
+1363,Pedro Miguel Silveira,vendedor,M,1499,1991-11-01,2022-12-29
+1364,Levi Silva,vendedor,M,1500,1991-11-02,2022-12-30
+1365,Benjamin Pinto,vendedor,M,1501,1991-11-03,2022-12-31
+1366,Pedro Lucas Moraes,vendedor,M,1502,1991-11-04,2023-01-01
+1367,Diogo Azevedo,vendedor,M,1503,1991-11-05,2023-01-02
+1368,Arthur Freitas,vendedor,M,1504,1991-11-06,2023-01-03
+1369,Augusto Carvalho,vendedor,M,1505,1991-11-07,2023-01-04
+1370,Alexandre Lima,vendedor,M,1502,1991-11-08,2023-01-05
+1371,João Moura,vendedor,M,1503,1991-11-09,2023-01-06
+1372,Isaac da Conceição,vendedor,M,1504,1991-11-10,2023-01-07
+1373,Dr. Enzo Freitas,vendedor,M,1505,1991-11-11,2022-04-02
+1374,Sr. Luiz Henrique Duarte,vendedor,M,1497,1991-11-12,2022-04-03
+1375,Rodrigo Cardoso,vendedor,M,1498,1991-11-13,2022-04-04
+1376,Dr. Alexandre Lima,vendedor,M,1499,1991-11-14,2022-04-05
+1377,Sr. Levi da Conceição,vendedor,M,1500,1991-11-15,2022-04-06
+1378,Yuri Nascimento,vendedor,M,1502,1991-11-16,2022-04-07
+1379,Lucas Gabriel Freitas,vendedor,M,1503,1991-11-17,2022-04-08
+1380,Arthur Carvalho,vendedor,M,1504,1991-11-18,2022-04-09
+1381,Yago Silveira,vendedor,M,1505,1991-11-19,2022-04-10
+1382,Sr. Diogo Rodrigues,vendedor,M,1497,1991-11-20,2022-04-11
+1383,Lucas da Conceição,vendedor,M,1498,1991-11-21,2022-04-12
+1384,Sr. André Viana,vendedor,M,1499,1991-11-22,2022-04-13
+1385,Rafael Mendes,vendedor,M,1500,1991-11-23,2022-04-14
+1386,Gustavo Silveira,vendedor,M,1497,1991-11-24,2022-04-15
+1387,João Peixoto,vendedor,M,1498,1991-11-25,2022-04-16
+1388,Luiz Henrique Gomes,vendedor,M,1499,1991-11-26,2022-04-17
+1389,Calebe Ramos,vendedor,M,1500,1991-11-27,2022-04-18
+1390,Breno Cardoso,vendedor,M,1497,1991-11-28,2022-04-19
+1391,Dr. João Guilherme da Paz,vendedor,M,1498,1991-11-29,2022-04-20
+1392,Gustavo Henrique Mendes,vendedor,M,1499,1991-11-30,2022-04-21
+1393,Dr. Lucas Araújo,vendedor,M,1500,1991-12-01,2022-04-22
+1394,Vicente Viana,vendedor,M,1497,1991-12-02,2022-04-23
+1395,Rodrigo Ferreira,vendedor,M,1498,1991-12-03,2022-04-24
+1396,Renan Jesus,vendedor,M,1499,1991-12-04,2022-04-25
+1397,Eduardo Fernandes,vendedor,M,1500,1991-12-05,2022-04-26
+1398,Benjamin Barros,vendedor,M,1497,1991-12-06,2022-04-27
+1399,Dr. Kaique Sales,vendedor,M,1498,1991-12-07,2022-04-28
+1400,Dr. Marcos Vinicius Pires,vendedor,M,1499,1991-12-08,2022-04-29
+1401,Kaique Monteiro,vendedor,M,1500,1991-12-09,2022-04-30
+1402,Luiz Henrique da Costa,vendedor,M,1501,1991-12-10,2022-05-01
+1403,Calebe Campos,vendedor,M,1502,1991-12-11,2022-05-02
+1404,Rafael Cardoso,vendedor,M,1503,1991-12-12,2022-05-03
+1405,Pedro da Luz,vendedor,M,1504,1991-12-13,2022-05-04
+1406,Dr. Francisco Porto,vendedor,M,1505,1991-12-14,2022-05-05
+1407,Lucas Gabriel Pinto,vendedor,M,1497,1991-12-15,2022-05-06
+1408,Bernardo Monteiro,vendedor,M,1498,1991-12-16,2022-05-07
+1409,Dr. Antônio das Neves,vendedor,M,1499,1991-12-17,2022-05-08
+1410,Dr. Matheus Oliveira,vendedor,M,1500,1991-12-18,2022-05-09
+1411,Levi Cardoso,vendedor,M,1501,1991-12-19,2022-05-10
+1412,Paulo Correia,vendedor,M,1502,1991-12-20,2022-05-11
+1413,Sr. Augusto da Mota,vendedor,M,1503,1991-12-21,2022-05-12
+1414,Lucca Lima,vendedor,M,1504,1991-12-22,2022-05-13
+1415,Arthur Araújo,vendedor,M,1505,1991-12-23,2022-05-14
+1416,Erick Ramos,vendedor,M,1502,1991-12-24,2022-05-15
+1417,Lucas Pires,vendedor,M,1503,1991-12-25,2022-05-16
+1418,Rodrigo Fernandes,vendedor,M,1504,1991-12-26,2022-05-17
+1419,João Gabriel Carvalho,vendedor,M,1505,1991-12-27,2022-05-18
+1420,Dr. Thomas Fernandes,vendedor,M,1497,1991-12-28,2022-05-19
+1421,Diego das Neves,vendedor,M,1498,1991-12-29,2022-05-20
+1422,Dr. Gustavo Peixoto,vendedor,M,1499,1991-12-30,2022-05-21
+1423,João Miguel Azevedo,vendedor,M,1500,1991-12-31,2022-05-22
+1424,Eduardo Barbosa,vendedor,M,1502,1992-01-01,2022-05-23
+1425,Kaique da Rocha,vendedor,M,1503,1992-01-02,2022-05-24
+1426,Dr. Vicente Santos,vendedor,M,1504,1992-01-03,2022-05-25
+1427,Theo da Conceição,vendedor,M,1505,1992-01-04,2022-05-26
+1428,Thiago Gomes,vendedor,M,1497,1992-01-05,2022-05-27
+1429,João Mendes,vendedor,M,1498,1992-01-06,2022-05-28
+1430,Thomas Rezende,vendedor,M,1499,1992-01-07,2022-05-29
+1431,João Vitor Almeida,vendedor,M,1500,1992-01-08,2022-05-30
+1432,Davi Lucca Lopes,vendedor,M,1497,1992-01-09,2022-05-31
+1433,Sr. Enzo Cavalcanti,vendedor,M,1498,1992-01-10,2022-06-01
+1434,Kaique Castro,vendedor,M,1499,1992-01-11,2022-06-02
+1435,Dr. Paulo Lima,vendedor,M,1500,1992-01-12,2022-06-03
+1436,João Guilherme Oliveira,vendedor,M,1497,1992-01-13,2022-06-04
+1437,Diogo da Costa,vendedor,M,1498,1992-01-14,2022-06-05
+1438,Pedro Oliveira,vendedor,M,1499,1992-01-15,2022-06-06
+1439,Otávio Teixeira,vendedor,M,1500,1985-09-01,2022-06-07
+1440,Sr. Yuri Moura,vendedor,M,1497,1985-09-02,2022-06-08
+1441,Kevin Nunes,vendedor,M,1498,1985-09-03,2022-06-09
+1442,Pietro Aragão,vendedor,M,1499,1985-09-04,2022-06-10
+1443,Pedro Souza,vendedor,M,1500,1985-09-05,2022-06-11
+1444,Daniel Peixoto,vendedor,M,1497,1985-09-06,2022-06-12
+1445,Luiz Felipe Correia,vendedor,M,1498,1985-09-07,2022-06-13
+1446,Calebe das Neves,vendedor,M,1499,1985-09-08,2022-06-14
+1447,João Pedro da Cruz,vendedor,M,1500,1985-09-09,2022-06-15
+1448,Bryan Freitas,vendedor,M,1501,1985-09-10,2022-06-16
+1449,Sr. Paulo Caldeira,vendedor,M,1502,1985-09-11,2022-06-17
+1450,Luiz Otávio Martins,vendedor,M,1503,1985-09-12,2022-06-27
+1451,Dr. Vicente Gomes,vendedor,M,1504,1985-09-13,2022-06-28
+1452,Caio Vieira,vendedor,M,1505,1985-09-14,2022-06-29
+1453,João Pedro Gomes,vendedor,M,1497,1985-09-15,2022-06-30
+1454,Calebe Cardoso,vendedor,M,1498,1985-09-16,2022-07-01
+1455,Bernardo Jesus,vendedor,M,1499,1985-09-17,2022-07-02
+1456,Luiz Henrique da Cruz,vendedor,M,1500,1985-09-18,2022-07-03
+1457,Thomas Sales,vendedor,M,1501,1985-09-19,2022-07-04
+1458,Cauã da Cunha,vendedor,M,1502,1985-09-20,2022-07-05
+1459,Dr. Emanuel Lima,vendedor,M,1503,1985-09-21,2022-07-06
+1460,Guilherme Pereira,vendedor,M,1504,1985-09-22,2022-07-07
+1461,Davi Ribeiro,vendedor,M,1505,1985-09-23,2022-07-08
+1462,Cauê Santos,vendedor,M,1502,1985-09-24,2022-07-09
+1463,Enrico Souza,vendedor,M,1503,1985-09-25,2022-07-10
+1464,João Lucas Moraes,vendedor,M,1504,1985-09-26,2022-07-11
+1465,Francisco Ferreira,vendedor,M,1505,1985-09-27,2022-07-12
+1466,João Lucas da Cruz,vendedor,M,1497,1985-09-28,2022-07-13
+1467,Kaique da Rocha,vendedor,M,1498,1985-09-29,2022-07-14
+1468,Gabriel Araújo,vendedor,M,1499,1985-09-30,2022-07-15
+1469,Dr. Ian Alves,vendedor,M,1500,1985-10-01,2022-07-16
+1470,Danilo Rodrigues,vendedor,M,1502,1985-10-02,2022-07-17
+1471,Sr. Benício Cavalcanti,vendedor,M,1503,1985-10-03,2022-07-18
+1472,Thomas Caldeira,vendedor,M,1504,1985-10-04,2022-07-19
+1473,Antônio Monteiro,vendedor,M,1505,1985-10-05,2022-07-20
+1474,João Mendes,vendedor,M,1497,1985-10-06,2022-07-21
+1475,Thomas Fogaça,vendedor,M,1498,1985-10-07,2022-07-22
+1476,Igor Araújo,vendedor,M,1499,1985-10-08,2022-07-23
+1477,Dr. Luiz Gustavo Almeida,vendedor,M,1500,1985-10-09,2022-07-24
+1478,Sr. Pedro Correia,vendedor,M,1497,1985-10-10,2022-07-25
+1479,Diogo Aragão,vendedor,M,1498,1985-10-11,2022-07-26
+1480,Benjamin Cavalcanti,vendedor,M,1499,1985-10-12,2022-07-27
+1481,Pedro Araújo,vendedor,M,1500,1985-10-13,2022-07-28
+1482,Calebe Caldeira,vendedor,M,1497,1985-10-14,2022-07-29
+1483,Luiz Henrique Barbosa,vendedor,M,1498,1985-10-15,2022-07-30
+1484,Gustavo Henrique Pereira,vendedor,M,1499,1985-10-16,2022-07-31
+1485,Ian da Conceição,vendedor,M,1500,1985-10-17,2022-08-01
+1486,Vitor Hugo Carvalho,vendedor,M,1497,1985-10-18,2022-08-02
+1487,Benjamin da Costa,vendedor,M,1498,1985-10-19,2022-08-03
+1488,Diogo Ribeiro,vendedor,M,1499,1985-10-20,2022-08-04
+1489,Sr. Davi Lucca Almeida,vendedor,M,1500,1985-10-21,2022-08-05
+1490,Otávio da Paz,vendedor,M,1497,1985-10-22,2022-08-06
+1491,Luiz Fernando Viana,vendedor,M,1498,1985-10-23,2022-08-07
+1492,Vitor Hugo Gomes,vendedor,M,1499,1985-10-24,2022-08-08
+1493,Isaac Pereira,vendedor,M,1500,1985-10-25,2022-08-09
+1494,Dr. Enrico Monteiro,vendedor,M,1501,1985-10-26,2022-08-10
+1495,Gustavo Cunha,vendedor,M,1502,1985-10-27,2022-08-11
+1496,Ian Moraes,vendedor,M,1503,1985-10-28,2022-08-12
+1497,Bryan Rodrigues,supervisor,M,2000,1989-03-05,2021-08-13
+1498,Vitor Hugo da Conceição,supervisor,M,2000,1988-03-05,2021-08-14
+1499,Raul Cunha,supervisor,M,2000,1979-03-05,2021-08-15
+1500,João Guilherme Lopes,supervisor,M,1998,1990-03-05,2021-08-16
+1501,Marcela Sales,supervisor,F,1998,1981-03-05,2002-08-17
+1502,Catarina Rezende,supervisor,F,1999,1982-03-05,2001-08-18
+1503,Agatha Silva,supervisor,F,1999,1983-03-05,2022-08-19
+1504,Yasmin Aragão,supervisor,F,2000,1985-03-05,2092-08-20
+1505,Maria Clara da Luz,supervisor,F,2000,1979-03-05,2022-08-21
+1506,Milena Santos,vendedor,F,1504,1985-10-29,2022-08-22
+1507,Sarah Fernandes,vendedor,F,1505,1985-10-30,2022-08-23
+1508,Lara da Rocha,vendedor,F,1497,1985-10-31,2022-08-24
+1509,Maria Julia da Paz,vendedor,F,1498,1985-11-01,2022-08-25
+1510,Giovanna Rodrigues,vendedor,F,1499,1985-11-02,2022-08-26
+1511,Mariane Correia,vendedor,F,1500,1985-11-03,2022-08-27
+1512,Pietra Ramos,vendedor,F,1501,1985-11-04,2022-08-28
+1513,Alícia da Rocha,vendedor,F,1502,1985-11-05,2022-08-29
+1514,Sophie Ramos,vendedor,F,1503,1985-11-06,2022-08-30
+1515,Daniela Rocha,vendedor,F,1504,1985-11-07,2022-08-31
+1516,Clarice Almeida,vendedor,F,1505,1985-11-08,2022-09-01
+1517,Maitê Pereira,vendedor,F,1502,1985-11-09,2022-09-02
+1518,Juliana Fogaça,vendedor,F,1503,1985-11-10,2022-09-03
+1519,Maitê Santos,vendedor,F,1504,1985-11-11,2022-09-04
+1520,Agatha Silveira,vendedor,F,1505,1985-11-12,2022-09-05
+1521,Heloísa da Conceição,vendedor,F,1497,1985-11-13,2022-09-06
+1522,Ana Luiza Novaes,vendedor,F,1498,1985-11-14,2022-09-07
+1523,Sabrina Araújo,vendedor,F,1499,1985-11-15,2022-09-08
+1524,Alana Araújo,vendedor,F,1500,1985-11-16,2022-09-09
+1525,Maria Sophia Aragão,vendedor,F,1502,1985-11-17,2022-09-10
+1526,Fernanda Correia,vendedor,F,1503,1985-11-18,2022-09-11
+1527,Bruna Araújo,vendedor,F,1504,1985-11-19,2022-09-12
+1528,Srta. Ana Julia Mendes,vendedor,F,1505,1985-11-20,2010-09-13
+1529,Vitória Fogaça,vendedor,F,1497,1985-11-21,2010-09-14
+1530,Olivia Melo,vendedor,F,1498,1985-11-22,2010-09-15
+1531,Ana Júlia Teixeira,vendedor,F,1499,1985-11-23,2010-09-16
+1532,Sofia Farias,vendedor,F,1500,1985-11-24,2010-09-17
+1533,Júlia Novaes,vendedor,F,1497,1985-11-25,2010-09-18
+1534,Agatha Gomes,vendedor,F,1498,1985-11-26,2010-09-19
+1535,Luna Campos,vendedor,F,1499,1985-11-27,2010-09-20
+1536,Lavínia Nunes,vendedor,F,1500,1985-11-28,2010-09-21
+1537,Maria Fernanda Novaes,vendedor,F,1497,1985-11-29,2010-09-22
+1538,Camila da Cunha,vendedor,F,1498,1985-11-30,2010-09-23
+1539,Laís Correia,vendedor,F,1499,1985-12-01,2010-09-24
+1540,Clarice Ferreira,vendedor,F,1500,1985-12-02,2010-09-25
+1541,Isis Fogaça,vendedor,F,1497,1985-12-03,2010-09-26
+1542,Srta. Alexia Almeida,vendedor,F,1498,1985-12-04,2010-09-27
+1543,Heloísa Lopes,vendedor,F,1499,1985-12-05,2010-09-28
+1544,Dra. Catarina Sales,vendedor,F,1500,1985-12-06,2010-09-29
+1545,Eloah Caldeira,vendedor,F,1497,1983-01-01,2010-09-30
+1546,Emilly Correia,vendedor,F,1498,1983-01-02,2010-10-01
+1547,Maria Julia Cunha,vendedor,F,1499,1983-01-03,2010-10-02
+1548,Marina Peixoto,vendedor,F,1500,1983-01-04,2010-10-03
+1549,Emanuella Silva,vendedor,F,1501,1983-01-05,2010-10-04
+1550,Ana Sophia da Conceição,vendedor,F,1502,1983-01-06,2010-10-05
+1551,Juliana Mendes,vendedor,F,1503,1983-01-07,2010-10-06
+1552,Gabrielly Freitas,vendedor,F,1504,1983-01-08,2010-10-07
+1553,Eloah Cunha,vendedor,F,1505,1983-01-09,2010-10-08
+1554,Raquel da Cunha,vendedor,F,1497,1983-01-10,2010-10-09
+1555,Eloah Porto,vendedor,F,1498,1983-01-11,2010-10-10
+1556,Clara Ramos,vendedor,F,1499,1983-01-12,2010-10-11
+1557,Alícia Rodrigues,vendedor,F,1500,1983-01-13,2010-10-12
+1558,Eloah Azevedo,vendedor,F,1501,1983-01-14,2010-10-13
+1559,Maria Cecília Duarte,vendedor,F,1502,1983-01-15,2010-10-14
+1560,Pietra Jesus,vendedor,F,1503,1983-01-16,2010-10-15
+1561,Laura Pires,vendedor,F,1504,1983-01-17,2010-10-16
+1562,Lívia Campos,vendedor,F,1505,1983-01-18,2010-10-17
+1563,Alícia da Rocha,vendedor,F,1502,1983-01-19,2010-10-18
+1564,Ana Clara Almeida,vendedor,F,1503,1983-01-20,2010-10-19
+1565,Maitê Cunha,vendedor,F,1504,1983-01-21,2010-10-20
+1566,Evelyn Rodrigues,vendedor,F,1505,1983-01-22,2010-10-21
+1567,Maria Julia Ribeiro,vendedor,F,1497,1983-01-23,2010-10-22
+1568,Júlia Teixeira,vendedor,F,1498,1983-01-24,2010-10-23
+1569,Mariane Mendes,vendedor,F,1499,1983-01-25,2010-10-24
+1570,Milena Monteiro,vendedor,F,1500,1983-01-26,2010-10-25
+1571,Manuela Viana,vendedor,F,1502,1983-01-27,2010-10-26
+1572,Raquel Cavalcanti,vendedor,F,1503,1983-01-28,2010-10-27
+1573,Heloísa da Mata,vendedor,F,1504,1983-01-29,2010-10-28
+1574,Alícia Moura,vendedor,F,1505,1983-01-30,2010-10-29
+1575,Evelyn Alves,vendedor,F,1497,1983-01-31,2010-10-30
+1576,Natália da Cruz,vendedor,F,1498,1983-02-01,2010-10-31
+1577,Lavínia da Rosa,vendedor,F,1499,1983-02-02,2010-11-01
+1578,Lara Silva,vendedor,F,1500,1983-02-03,2010-11-02
+1579,Clarice Pereira,vendedor,F,1497,1983-02-04,2010-11-03
+1580,Srta. Valentina Nogueira,vendedor,F,1498,1983-02-05,2010-11-04
+1581,Maria Cecília Porto,vendedor,F,1499,1983-02-06,2010-11-05
+1582,Sophia Carvalho,vendedor,F,1500,1983-02-07,2010-11-06
+1583,Ana Cardoso,vendedor,F,1497,1983-02-08,2010-11-07
+1584,Maria Vitória Santos,vendedor,F,1498,1983-02-09,2010-11-08
+1585,Luana Moraes,vendedor,F,1499,1983-02-10,2010-11-09
+1586,Caroline Lopes,vendedor,F,1500,1983-02-11,2010-11-10
+1587,Gabriela Costela,vendedor,F,1497,1983-02-12,2010-11-11
+1588,Sra. Ana Laura da Rocha,vendedor,F,1498,1983-02-13,2010-11-12
+1589,Srta. Ana Laura Viana,vendedor,F,1499,1983-02-14,2010-11-13
+1590,Yasmin Alves,vendedor,F,1500,1983-02-15,2010-11-14
+1591,Bárbara das Neves,vendedor,F,1498,1983-02-16,2010-11-15
+1592,Bruna Moura,vendedor,F,1499,1983-02-17,2010-11-16
+1593,Rebeca Pinto,vendedor,F,1500,1983-02-18,2010-11-17
+1594,Emanuelly Costela,vendedor,F,1497,1983-02-19,2010-11-18
+1595,Maria Alice Castro,vendedor,F,1498,1983-02-20,2010-11-19
+1596,Luiza Araújo,vendedor,F,1499,1983-02-21,2010-11-20
+1597,Maria Eduarda Teixeira,vendedor,F,1500,1983-02-22,2010-11-21
+1598,Nina Dias,vendedor,F,1497,1983-02-23,2010-11-22
+1599,Juliana Silva,vendedor,F,1498,1983-02-24,2010-11-23
+1600,Beatriz Viana,vendedor,F,1499,1983-02-25,2010-11-24
+1601,Alexia da Conceição,vendedor,F,1500,1983-02-26,2010-11-25
+1602,Maria Alice Melo,vendedor,F,1497,1983-02-27,2010-11-26
+1603,Ana Cavalcanti,vendedor,F,1498,1983-02-28,2010-11-27
+1604,Sra. Maria Clara das Neves,vendedor,F,1499,1983-03-01,2010-11-28
+1605,Dra. Beatriz Pinto,vendedor,F,1500,1983-03-02,2010-11-29
+1606,Brenda Nunes,vendedor,F,1501,1983-03-03,2010-11-30
+1607,Ana Vitória da Mata,vendedor,F,1502,1983-03-04,2010-12-01
+1608,Julia Azevedo,vendedor,F,1503,1983-03-05,2010-12-02
+1609,Eduarda Correia,vendedor,F,1504,1983-03-06,2010-12-03
+1610,Srta. Stella Silva,vendedor,F,1505,1983-03-07,2010-12-04
+1611,Ana Júlia Teixeira,vendedor,F,1497,1983-03-08,2010-12-05
+1612,Emanuelly da Cunha,vendedor,F,1498,1983-03-09,2010-12-06
+1613,Laura da Mata,vendedor,F,1499,1983-03-10,2010-12-07
+1614,Ana Lívia Oliveira,vendedor,F,1500,1983-03-11,2010-12-08
+1615,Carolina da Costa,vendedor,F,1501,1983-03-12,2010-12-09
+1616,Ana Carolina Rocha,vendedor,F,1502,1983-03-13,2010-12-10
+1617,Vitória Novaes,vendedor,F,1503,1983-03-14,2010-12-11
+1618,Stephany da Rocha,vendedor,F,1504,1983-03-15,2010-12-12
+1619,Lavínia Duarte,vendedor,F,1505,1983-03-16,2010-12-13
+1620,Amanda Moraes,vendedor,F,1502,1983-03-17,2010-12-14
+1621,Maria Clara Pereira,vendedor,F,1503,1983-03-18,2010-12-15
+1622,Clarice Melo,vendedor,F,1504,1983-03-19,2022-12-16
+1623,Isabel Duarte,vendedor,F,1505,1983-03-20,2022-12-17
+1624,Maria Cecília Campos,vendedor,F,1497,1983-03-21,2022-12-18
+1625,Alícia Dias,vendedor,F,1498,1983-03-22,2022-12-19
+1626,Laura Cavalcanti,vendedor,F,1499,1983-03-23,2022-12-20
+1627,Maria Julia Cavalcanti,vendedor,F,1500,1983-03-24,2022-12-21
+1628,Amanda da Rocha,vendedor,F,1502,1983-03-25,2022-12-22
+1629,Laís Oliveira,vendedor,F,1503,1983-03-26,2022-12-23
+1630,Juliana Rodrigues,vendedor,F,1504,1983-03-27,2022-12-24
+1631,Kamilly da Conceição,vendedor,F,1505,1983-03-28,2022-12-25
+1632,Bianca Lima,vendedor,F,1497,1983-03-29,2022-12-26
+1633,Maria Julia Dias,vendedor,F,1498,1983-03-30,2022-12-27
+1634,Sra. Laura Peixoto,vendedor,F,1499,1983-03-31,2022-12-28
+1635,Luna Silva,vendedor,F,1500,1983-04-01,2022-12-29
+1636,Melissa da Paz,vendedor,F,1497,1983-04-02,2022-12-30
+1637,Isabel Martins,vendedor,F,1498,1983-04-03,2022-12-31
+1638,Marcela Costela,vendedor,F,1499,1983-04-04,2023-01-01
+1639,Caroline Silva,vendedor,F,1500,1983-04-05,2023-01-02
+1640,Maria Ribeiro,vendedor,F,1497,1983-04-06,2023-01-03
+1641,Heloísa das Neves,vendedor,F,1498,1983-04-07,2023-01-04
+1642,Alice Almeida,vendedor,F,1499,1983-04-08,2023-01-05
+1643,Elisa Silva,vendedor,F,1500,1983-04-09,2023-01-06
+1644,Maria Ribeiro,vendedor,F,1497,1983-04-10,2023-01-07
+1645,Laura Carvalho,vendedor,F,1498,1983-04-11,2022-04-02
+1646,Valentina Oliveira,vendedor,F,1499,1983-04-12,2022-04-03
+1647,Stella da Mota,vendedor,F,1500,1983-04-13,2022-04-04
+1648,Nicole da Mata,vendedor,F,1497,1983-04-14,2022-04-05
+1649,Emanuella Souza,vendedor,F,1498,1983-04-15,2022-04-06
+1650,Ana Sophia Jesus,vendedor,F,1499,1983-04-16,2022-04-07
+1651,Sra. Raquel Farias,vendedor,F,1500,1983-04-17,2022-04-08
+1652,Camila da Mota,vendedor,F,1501,1983-04-18,2022-04-09
+1653,Ana Carolina Lima,vendedor,F,1502,1983-04-19,2022-04-10
+1654,Maria Clara da Mata,vendedor,F,1503,1983-04-20,2022-04-11
+1655,Júlia Cunha,vendedor,F,1504,1983-04-21,2022-04-12
+1656,Maysa Martins,vendedor,F,1505,1983-04-22,2022-04-13
+1657,Maria Luiza Costa,vendedor,F,1497,1983-04-23,2022-04-14
+1658,Clarice Novaes,vendedor,F,1498,1983-04-24,2022-04-15
+1659,Ana Cardoso,vendedor,F,1499,1983-04-25,2022-04-16
+1660,Alexia Araújo,vendedor,F,1500,1983-04-26,2022-04-17
+1661,Srta. Maria Cecília Pires,vendedor,F,1501,1983-04-27,2022-04-18
+1662,Carolina da Luz,vendedor,F,1502,1983-04-28,2022-04-19
+1663,Caroline Campos,vendedor,F,1503,1983-04-29,2022-04-20
+1664,Maria Melo,vendedor,F,1504,1983-04-30,2022-04-21
+1665,Sophia Correia,vendedor,F,1505,1983-05-01,2022-04-22
+1666,Maria Peixoto,vendedor,F,1502,1983-05-02,2022-04-23
+1667,Isadora Sales,vendedor,F,1503,1983-05-03,2022-04-24
+1668,Manuela da Mata,vendedor,F,1504,1983-05-04,2022-04-25
+1669,Stephany Vieira,vendedor,F,1505,1983-05-05,2022-04-26
+1670,Milena Lima,vendedor,F,1497,1983-05-06,2022-04-27
+1671,Mirella Gomes,vendedor,F,1498,1983-05-07,2022-04-28
+1672,Isabel Pereira,vendedor,F,1499,1983-05-08,2022-04-29
+1673,Srta. Ana Laura Rocha,vendedor,F,1500,1983-05-09,2022-04-30
+1674,Júlia Novaes,vendedor,F,1502,1983-05-10,2022-05-01
+1675,Rebeca Oliveira,vendedor,F,1503,1983-05-11,2022-05-02
+1676,Melissa Nunes,vendedor,F,1504,1983-05-12,2022-05-03
+1677,Srta. Ana Clara Costela,vendedor,F,1505,1983-05-13,2022-05-04
+1678,Agatha Jesus,vendedor,F,1497,1983-05-14,2022-05-05
+1679,Maria Ribeiro,vendedor,F,1498,1983-05-15,2022-05-06
+1680,Júlia Costa,vendedor,F,1499,1983-05-16,2022-05-07
+1681,Camila Aragão,vendedor,F,1500,1983-05-17,2022-05-08
+1682,Joana Cardoso,vendedor,F,1497,1983-05-18,2022-05-09
+1683,Ana Sophia Correia,vendedor,F,1498,1983-05-19,2022-05-10
+1684,Ana Clara Fernandes,vendedor,F,1499,1983-05-20,2022-05-11
+1685,Alícia Castro,vendedor,F,1500,1983-05-21,2022-05-12
+1686,Dra. Eloah Monteiro,vendedor,F,1497,1983-05-22,2022-05-13
+1687,Maysa Pires,vendedor,F,1498,1983-05-23,2022-05-14
+1688,Alice Pires,vendedor,F,1499,1983-05-24,2022-05-15
+1689,Maria Fernanda da Mata,vendedor,F,1500,1983-05-25,2022-05-16
+1690,Maria Eduarda Fogaça,vendedor,F,1497,1983-05-26,2022-05-17
+1691,Caroline Costa,vendedor,F,1498,1983-05-27,2022-05-18
+1692,Giovanna Pires,vendedor,F,1499,1983-05-28,2022-05-19
+1693,Yasmin Gomes,vendedor,F,1500,1983-05-29,2022-05-20
+1694,Lorena Moura,vendedor,F,1497,1983-05-30,2022-05-21
+1695,Clara Ramos,vendedor,F,1498,1983-05-31,2022-05-22
+1696,Maria Sophia Souza,vendedor,F,1499,1983-06-01,2022-05-23
+1697,Dra. Isabelly da Luz,vendedor,F,1500,1983-06-02,2022-05-24
+1698,Giovanna Ramos,vendedor,F,1501,1983-06-03,2022-05-25
+1699,Evelyn da Cruz,vendedor,F,1502,1983-06-04,2022-05-26
+1700,Heloísa Correia,vendedor,F,1503,1983-06-05,2022-05-27
+1701,Isis Lima,vendedor,F,1504,1983-06-06,2022-05-28
+1702,Maitê Costela,vendedor,F,1505,1983-06-07,2022-05-29
+1703,Vitória Gonçalves,vendedor,F,1497,1983-06-08,2022-05-30
+1704,Rebeca Rezende,vendedor,F,1498,1983-06-09,2022-05-31
+1705,Dra. Letícia da Mota,vendedor,F,1499,1983-06-10,2022-06-01
+1706,Clara da Cruz,vendedor,F,1500,1983-06-11,2022-06-02
+1707,Manuela Cardoso,vendedor,F,1501,1983-06-12,2022-06-03
+1708,Maysa Nunes,vendedor,F,1502,1983-06-13,2022-06-04
+1709,Ana Julia Almeida,vendedor,F,1503,1983-06-14,2022-06-05
+1710,Ana Luiza Jesus,vendedor,F,1504,1983-06-15,2022-06-06
+1711,Marina Ribeiro,vendedor,F,1505,1983-06-16,2022-06-07
+1712,Gabrielly Monteiro,vendedor,F,1502,1983-06-17,2022-06-08
+1713,Valentina Farias,vendedor,F,1503,1983-06-18,2022-06-09
+1714,Sra. Daniela Caldeira,vendedor,F,1504,1983-06-19,2022-06-10
+1715,Dra. Sophia Pires,vendedor,F,1505,1983-06-20,2022-06-11
+1716,Maria Cecília Rodrigues,vendedor,F,1497,1983-06-21,2022-06-12
+1717,Maria Sophia Rocha,vendedor,F,1498,1983-06-22,2022-06-13
+1718,Sra. Giovanna Duarte,vendedor,F,1499,1983-06-23,2022-06-14
+1719,Clara Correia,vendedor,F,1500,1983-06-24,2022-06-15
+1720,Dra. Isabella Correia,vendedor,F,1502,1983-06-25,2022-06-16
+1721,Larissa Aragão,vendedor,F,1503,1983-06-26,2022-06-17
+1722,Maria Clara Rocha,vendedor,F,1504,1983-06-27,2022-06-27
+1723,Mariana Carvalho,vendedor,F,1505,1983-06-28,2022-06-28
+1724,Agatha Rocha,vendedor,F,1497,1983-06-29,2022-06-29
+1725,Gabriela Ferreira,vendedor,F,1498,1983-06-30,2022-06-30
+1726,Valentina Rocha,vendedor,F,1499,1983-07-01,2022-07-01
+1727,Alana Souza,vendedor,F,1500,1983-07-02,2022-07-02
+1728,Ana Beatriz Almeida,vendedor,F,1497,1983-07-03,2022-07-03
+1729,Sofia da Luz,vendedor,F,1498,1983-07-04,2022-07-04
+1730,Nina Fernandes,vendedor,F,1499,1983-07-05,2022-07-05
+1731,Larissa da Cunha,vendedor,F,1500,1983-07-06,2022-07-06
+1732,Sra. Luna Fernandes,vendedor,F,1497,1983-07-07,2022-07-07
+1733,Raquel Rocha,vendedor,F,1498,1983-07-08,2022-07-08
+1734,Maria Fernanda Barros,vendedor,F,1499,1983-07-09,2022-07-09
+1735,Emanuella Monteiro,vendedor,F,1500,1983-07-10,2022-07-10
+1736,Dra. Maria Fernanda Souza,vendedor,F,1497,1983-07-11,2022-07-11
+1737,Agatha da Mata,vendedor,F,1498,1983-07-12,2022-07-12
+1738,Srta. Isabelly Nascimento,vendedor,F,1499,1983-07-13,2022-07-13
+1739,Maria da Conceição,vendedor,F,1500,1983-07-14,2022-07-14
+1740,Ana Vitória Nogueira,vendedor,F,1497,1983-07-15,2022-07-15
+1741,Ana Beatriz Araújo,vendedor,F,1498,1983-07-16,2022-07-16
+1742,Ana Sophia da Mata,vendedor,F,1499,1983-07-17,2022-07-17
+1743,Alice Carvalho,vendedor,F,1500,1983-07-18,2022-07-18
+1744,Sarah Gomes,vendedor,F,1501,1983-07-19,2022-07-19
+1745,Ana Clara Gomes,vendedor,F,1502,1983-07-20,2022-07-20
+1746,Laura Barros,vendedor,F,1503,1983-07-21,2022-07-21
+1747,Sra. Cecília Mendes,vendedor,F,1504,1983-07-22,2022-07-22
+1748,Rebeca Moraes,vendedor,F,1505,1983-07-23,2022-07-23
+1749,Pietra Almeida,vendedor,F,1497,1983-07-24,2022-07-24
+1750,Bárbara da Mota,vendedor,F,1498,1983-07-25,2022-07-25
+1751,Dra. Elisa Martins,vendedor,F,1499,1983-07-26,2022-07-26
+1752,Emanuelly Gonçalves,vendedor,F,1500,1983-07-27,2022-07-27
+1753,Srta. Maria Eduarda Souza,vendedor,F,1501,1983-07-28,2022-07-28
+1754,Ana Clara Silva,vendedor,F,1502,1983-07-29,2022-07-29
+1755,Ana Lívia Silveira,vendedor,F,1503,1983-07-30,2022-07-30
+1756,Gabrielly das Neves,vendedor,F,1504,1983-07-31,2022-07-31
+1757,Sra. Lívia Farias,vendedor,F,1505,1983-08-01,2022-08-01
+1758,Srta. Bárbara Moura,vendedor,F,1502,1983-08-02,2022-08-02
+1759,Sra. Nicole Carvalho,vendedor,F,1503,1983-08-03,2022-08-03
+1760,Sophia da Cruz,vendedor,F,1504,1983-08-04,2022-08-04
+1761,Natália Barros,vendedor,F,1505,1983-08-05,2022-08-05
+1762,Sra. Lívia Costa,vendedor,F,1497,1983-08-06,2022-08-06
+1763,Catarina Sales,vendedor,F,1498,1983-08-07,2022-08-07
+1764,Letícia Silveira,vendedor,F,1499,1983-08-08,2022-08-08
+1765,Bruna Dias,vendedor,F,1500,1983-08-09,2022-08-09
+1766,Dra. Isadora Ferreira,vendedor,F,1502,1983-08-10,2022-08-10
+1767,Raquel da Mata,vendedor,F,1503,1983-08-11,2022-08-11
+1768,Maysa Nogueira,vendedor,F,1504,1983-08-12,2022-08-12
+1769,Lorena Araújo,vendedor,F,1505,1983-08-13,2022-08-13
+1770,Maria Clara Pereira,vendedor,F,1497,1983-08-14,2022-08-14
+1771,Alice Souza,vendedor,F,1498,1983-08-15,2022-08-15
+1772,Ana Clara Sales,vendedor,F,1499,1983-08-16,2022-08-16
+1773,Sabrina Pereira,vendedor,F,1500,1983-08-17,2022-08-17
+1774,Sofia da Rosa,vendedor,F,1497,1983-08-18,2022-08-18
+1775,Lavínia Porto,vendedor,F,1498,1983-08-19,2022-08-19
+1776,Cecília Ribeiro,vendedor,F,1499,1983-08-20,2022-08-20
+1777,Alexia Ferreira,vendedor,F,1500,1983-08-21,2022-08-21
+1778,Ana Beatriz da Cunha,vendedor,F,1497,1983-08-22,2022-08-22
+1779,Marcela Teixeira,vendedor,F,1498,1983-08-23,2022-08-23
+1780,Evelyn da Mota,vendedor,F,1499,1983-08-24,2022-08-24
+1781,Sra. Heloísa Fogaça,vendedor,F,1500,1983-08-25,2022-08-25
+1782,Maitê Cardoso,vendedor,F,1497,1983-08-26,2022-08-26
+1783,Gabrielly Santos,vendedor,F,1498,1983-08-27,2022-08-27
+1784,Raquel Santos,vendedor,F,1499,1983-08-28,2022-08-28
+1785,Vitória da Mata,vendedor,F,1500,1983-08-29,2022-08-29
+1786,Bárbara Rodrigues,vendedor,F,1497,1983-08-30,2022-08-30
+1787,Sra. Ana Carolina Almeida,vendedor,F,1498,1983-08-31,2022-08-31
+1788,Maria Cecília Pereira,vendedor,F,1499,1983-09-01,2022-09-01
+1789,Melissa da Conceição,vendedor,F,1500,1983-09-02,2022-09-02
+1790,Nicole Novaes,vendedor,F,1501,1983-09-03,2022-09-03
+1791,Luana Viana,vendedor,F,1502,1983-09-04,2022-09-04
+1792,Melissa Costela,vendedor,F,1503,1983-09-05,2022-09-05
+1793,Clarice Melo,vendedor,F,1504,1983-09-06,2022-09-06
+1794,Sra. Isabel Duarte,vendedor,F,1505,1980-01-01,2022-09-07
+1795,Srta. Yasmin Gomes,vendedor,F,1497,1980-01-02,2022-09-08
+1796,Alana Almeida,vendedor,F,1498,1980-01-03,2022-09-09
+1797,Stephany Silva,vendedor,F,1499,1980-01-04,2022-09-10
+1798,Srta. Beatriz da Rocha,vendedor,F,1500,1980-01-05,2022-09-11
+1799,Marina Martins,vendedor,F,1501,1980-01-06,2022-09-12
+1800,Valentina Costela,vendedor,F,1502,1980-01-07,2022-09-13
+1801,Sra. Sarah da Rosa,vendedor,F,1503,1980-01-08,2022-09-14
+1802,Maria Alice Gomes,vendedor,F,1504,1980-01-09,2022-09-15
+1803,Lavínia Melo,vendedor,F,1505,1980-01-10,2022-09-16
+1804,Srta. Stella Freitas,vendedor,F,1502,1980-01-11,2022-09-17
+1805,Maria Sophia Novaes,vendedor,F,1503,1980-01-12,2022-09-18
+1806,Agatha Vieira,vendedor,F,1504,1980-01-13,2022-09-19
+1807,Maria Vitória Porto,vendedor,F,1505,1980-01-14,2022-09-20
+1808,Ana Lívia Mendes,vendedor,F,1497,1980-01-15,2022-09-21
+1809,Maria Eduarda Vieira,vendedor,F,1498,1980-01-16,2022-09-22
+1810,Pietra Cardoso,vendedor,F,1499,1980-01-17,2022-09-23
+1811,Giovanna Novaes,vendedor,F,1500,1980-01-18,2022-09-24
+1812,Sabrina Alves,vendedor,F,1502,1980-01-19,2022-09-25
+1813,Carolina das Neves,vendedor,F,1503,1980-01-20,2022-09-26
+1814,Cecília Cunha,vendedor,F,1504,1980-01-21,2022-09-27
+1815,Júlia Costela,vendedor,F,1505,1980-01-22,2022-09-28
+1816,Stella Campos,vendedor,F,1497,1980-01-23,2022-09-29
+1817,Ana Lívia da Mata,vendedor,F,1498,1980-01-24,2022-09-30
+1818,Sra. Isabel Alves,vendedor,F,1499,1980-01-25,2022-10-01
+1819,Marcela Oliveira,vendedor,F,1500,1980-01-26,2022-10-02
+1820,Valentina da Paz,vendedor,F,1497,1980-01-27,2022-10-03
+1821,Isabella Azevedo,vendedor,F,1498,1980-01-28,2022-10-04
+1822,Ana Júlia Silveira,vendedor,F,1499,1980-01-29,2022-10-05
+1823,Brenda da Mota,vendedor,F,1500,1980-01-30,2022-10-06
+1824,Sra. Eduarda Rocha,vendedor,F,1497,1980-01-31,2022-10-07
+1825,Giovanna da Conceição,vendedor,F,1498,1980-02-01,2022-10-08
+1826,Maria Fernanda Silva,vendedor,F,1499,1980-02-02,2022-10-09
+1827,Isadora Monteiro,vendedor,F,1500,1980-02-03,2022-10-10
+1828,Sra. Maria Vitória Ferreira,vendedor,F,1497,1980-02-04,2022-10-11
+1829,Maria da Cunha,vendedor,F,1498,1980-02-05,2022-10-12
+1830,Rafaela Melo,vendedor,F,1499,1980-02-06,2022-10-13
+1831,Beatriz Cardoso,vendedor,F,1500,1980-02-07,2022-10-14
+1832,Nina Monteiro,vendedor,F,1500,1980-02-08,2022-10-15
+1833,Srta. Eloah Pinto,vendedor,F,1500,1980-02-09,2022-10-16
+1834,Maria Clara Moura,vendedor,F,1500,1980-02-10,2022-10-17
+1835,Maria Cecília da Cunha,vendedor,F,1500,1980-02-11,2022-10-18
+1836,Srta. Alice Carvalho,vendedor,F,1500,1980-02-12,2022-10-19
+1837,Sophie Lopes,vendedor,F,1500,1980-02-13,2022-10-20
+1838,Letícia da Rosa,vendedor,F,1500,1980-02-14,2022-10-21
+1839,Rafaela Vieira,vendedor,F,1500,1980-02-15,2022-10-22
+1840,Luiza Melo,vendedor,F,1500,1980-02-16,2022-10-23
+1841,Maitê Gomes,vendedor,F,1500,1980-02-17,2022-10-24
+1842,Letícia Moreira,vendedor,F,1500,1980-02-18,2022-10-25
+1843,Giovanna Cunha,vendedor,F,1500,1980-02-19,2022-10-26
+1844,Raquel Cunha,vendedor,F,1500,1980-02-20,2022-10-27
+1845,Esther Cardoso,vendedor,F,1500,1980-02-21,2022-10-28
+1846,Milena Barros,vendedor,F,1500,1980-02-22,2022-10-29
+1847,Raquel Moreira,vendedor,F,1500,1980-02-23,2022-10-30
+1848,Ana Peixoto,vendedor,F,1500,1980-02-24,2022-10-31
+1849,Fernanda da Paz,vendedor,F,1500,1980-02-25,2022-11-01
+1850,Ana Laura Silveira,vendedor,F,1500,1980-02-26,2022-11-02
+1851,Alice Pinto,vendedor,F,1500,1980-02-27,2022-11-03
+1852,Srta. Cecília Ferreira,vendedor,F,1500,1980-02-28,2022-11-04
+1853,Laís Farias,vendedor,F,1500,1980-02-29,2022-11-05
+1854,Marcela Souza,vendedor,F,1500,1980-03-01,2022-11-06
+1855,Maria Fernanda Lopes,vendedor,F,1500,1980-03-02,2022-11-07
+1856,Helena Freitas,vendedor,F,1500,1980-03-03,2022-11-08
+1857,Lívia Moraes,vendedor,F,1500,1980-03-04,2022-11-09
+1858,Sabrina da Mota,vendedor,F,1500,1980-03-05,2022-11-10
+1859,Maria Sophia Cardoso,vendedor,F,1500,1980-03-06,2022-11-11
+1860,Isabel Monteiro,vendedor,F,1500,1980-03-07,2022-11-12
+1861,Maria Julia Jesus,vendedor,F,1500,1980-03-08,2022-11-13
+1862,Ana Sophia Pereira,vendedor,F,1500,1980-03-09,2022-11-14
+1863,Isadora Oliveira,vendedor,F,1500,1980-03-10,2022-11-15
+1864,Srta. Clara Rezende,vendedor,F,1500,1980-03-11,2022-11-16
+1865,Srta. Esther Vieira,vendedor,F,1500,1980-03-12,2022-11-17
+1866,Olivia Silva,vendedor,F,1500,1980-03-13,2022-11-18
+1867,Maitê Moreira,vendedor,F,1500,1980-03-14,2022-11-19
+1868,Pietra Nunes,vendedor,F,1500,1980-03-15,2022-11-20
+1869,Milena Aragão,vendedor,F,1500,1980-03-16,2022-11-21
+1870,Amanda Fernandes,vendedor,F,1500,1980-03-17,2022-11-22
+1871,Maria Clara Moraes,vendedor,F,1500,1980-03-18,2022-11-23
+1872,Alice Cardoso,vendedor,F,1500,1980-03-19,2022-11-24
+1873,Alice Correia,vendedor,F,1500,1980-03-20,2022-11-25
+1874,Valentina da Mata,vendedor,F,1500,1980-03-21,2022-11-26
+1875,Maitê Viana,vendedor,F,1500,1980-03-22,2022-11-27
+1876,Ana Júlia Nascimento,vendedor,F,1500,1980-03-23,2022-11-28
+1877,Ana Clara Lima,vendedor,F,1500,1980-03-24,2022-11-29
+1878,Sophie da Conceição,vendedor,F,1500,1980-03-25,2022-11-30
+1879,Maria Clara Rezende,vendedor,F,1500,1980-03-26,2022-12-01
+1880,Emanuella Souza,vendedor,F,1500,1980-03-27,2022-12-02
+1881,Amanda Santos,vendedor,F,1500,1980-03-28,2022-12-03
+1882,Nina Monteiro,vendedor,F,1500,1980-03-29,2022-12-04
+1883,Marina das Neves,vendedor,F,1500,1980-03-30,2022-12-05
+1884,Maria Alice Pereira,vendedor,F,1500,1980-03-31,2022-12-06
+1885,Ana Carolina da Mata,vendedor,F,1500,1980-04-01,2022-12-07
+1886,Maria Vitória Monteiro,vendedor,F,1500,1980-04-02,2022-12-08
+1887,Marcela Carvalho,vendedor,F,1500,1980-04-03,2022-12-09
+1888,Maria Vitória Barbosa,vendedor,F,1500,1980-04-04,2022-12-10
+1889,Mariana da Cruz,vendedor,F,1500,1980-04-05,2022-12-11
+1890,Stephany da Rocha,vendedor,F,1500,1980-04-06,2022-12-12
+1891,Júlia Castro,vendedor,F,1500,1980-04-07,2022-12-13
+1892,Eloah Cardoso,vendedor,F,1500,1980-04-08,2022-12-14
+1893,Rebeca Peixoto,vendedor,F,1500,1980-04-09,2022-12-15
+1894,Isadora Ribeiro,vendedor,F,1500,1980-04-10,2022-12-16
+1895,Ana Sophia da Conceição,vendedor,F,1500,1980-04-11,2022-12-17
+1896,Srta. Melissa Moreira,vendedor,F,1500,1980-04-12,2022-12-18
+1897,Gabriela Azevedo,vendedor,F,1500,1980-04-13,2022-12-19
+1898,Agatha da Paz,vendedor,F,1500,1980-04-14,2022-12-20
+1899,Maria Luiza da Cruz,vendedor,F,1500,1980-04-15,2022-12-21
+1900,Milena Costela,vendedor,F,1500,1980-04-16,2022-12-22
+1901,Dra. Valentina Barbosa,vendedor,F,1500,1980-04-17,2022-12-23
+1902,Srta. Sophia Ferreira,vendedor,F,1500,1980-04-18,2022-12-24
+1903,Maria Ramos,vendedor,F,1500,1980-04-19,2022-12-25
+1904,Lívia Peixoto,vendedor,F,1500,1980-04-20,2022-12-26
+1905,Carolina da Paz,vendedor,F,1500,1980-04-21,2022-12-27
+1906,Bárbara Souza,vendedor,F,1500,1980-04-22,2022-12-28
+1907,Emanuelly Teixeira,vendedor,F,1500,1980-04-23,2022-12-29
+1908,Ana Júlia Gomes,vendedor,F,1500,1980-04-24,2022-12-30
+1909,Ana Carolina Moraes,vendedor,F,1500,1980-04-25,2022-12-31
+1910,Srta. Ana Rodrigues,vendedor,F,1500,1980-04-26,2023-01-01
+1911,Ana Carolina Souza,vendedor,F,1500,1980-04-27,2023-01-02
+1912,Srta. Maria Gonçalves,vendedor,F,1500,1980-04-28,2023-01-03
+1913,Bianca Azevedo,vendedor,F,1500,1980-04-29,2023-01-04
+1914,Alexia Campos,vendedor,F,1500,1980-04-30,2023-01-05
+1915,Srta. Giovanna Santos,vendedor,F,1500,1980-05-01,2023-01-06
+1916,Luana Pires,vendedor,F,1500,1980-05-02,2023-01-07
+1917,Maria Araújo,vendedor,F,1500,1980-05-03,2022-04-02
+1918,Dra. Ana Rocha,vendedor,F,1500,1980-05-04,2022-04-03
+1919,Ana Beatriz Porto,vendedor,F,1500,1980-05-05,2022-04-04
+1920,Isabella Correia,vendedor,F,1500,1980-05-06,2022-04-05
+1921,Esther Jesus,vendedor,F,1500,1980-05-07,2022-04-06
+1922,Maria Luiza Barbosa,vendedor,F,1500,1980-05-08,2022-04-07
+1923,Srta. Mariane Silveira,vendedor,F,1500,1980-05-09,2022-04-08
+1924,Marina Rezende,vendedor,F,1500,1980-05-10,2022-04-09
+1925,Nina Nogueira,vendedor,F,1500,1980-05-11,2022-04-10
+1926,Maria Alice Melo,vendedor,F,1500,1980-05-12,2022-04-11
+1927,Maria Fernanda Rocha,vendedor,F,1500,1980-05-13,2022-04-12
+1928,Srta. Alexia Rezende,vendedor,F,1500,1980-05-14,2022-04-13
+1929,Julia Rezende,vendedor,F,1500,1980-05-15,2022-04-14
+1930,Lavínia Rodrigues,vendedor,F,1500,1980-05-16,2022-04-15
+1931,Maria Mendes,vendedor,F,1500,1980-05-17,2022-04-16
+1932,Rafaela Fogaça,vendedor,F,1500,1980-05-18,2022-04-17
+1933,Julia da Luz,vendedor,F,1500,1980-05-19,2022-04-18
+1934,Rafaela Duarte,vendedor,F,1500,1980-05-20,2022-04-19
+1935,Emilly Caldeira,vendedor,F,1500,1980-05-21,2022-04-20
+1936,Maitê Souza,vendedor,F,1500,1980-05-22,2022-04-21
+1937,Sabrina Moreira,vendedor,F,1500,1980-05-23,2022-04-22
+1938,Bruna Ribeiro,vendedor,F,1500,1980-05-24,2022-04-23
+1939,Dra. Emanuella Monteiro,vendedor,F,1500,1980-05-25,2022-04-24
+1940,Joana Castro,vendedor,F,1500,1980-05-26,2022-04-25
+1941,Mirella da Luz,vendedor,F,1500,1980-05-27,2022-04-26
+1942,Catarina Oliveira,vendedor,F,1500,1980-05-28,2022-04-27
+1943,Amanda Porto,vendedor,F,1500,1980-05-29,2022-04-28
+1944,Sra. Rafaela Farias,vendedor,F,1500,1980-05-30,2022-04-29
+1945,Helena Oliveira,vendedor,F,1500,1980-05-31,2022-04-30
+1946,Julia Costela,vendedor,F,1500,1980-06-01,2022-05-01
+1947,Maitê Freitas,vendedor,F,1500,1980-06-02,2022-05-02
+1948,Sabrina Mendes,vendedor,F,1500,1980-06-03,2022-05-03
+1949,Stephany Aragão,vendedor,F,1500,1980-06-04,2022-05-04
+1950,Alana Moreira,vendedor,F,1500,1980-06-05,2022-05-05
+1951,Manuela Fogaça,vendedor,F,1500,1980-06-06,2022-05-06
+1952,Sophie da Luz,vendedor,F,1500,1980-06-07,2022-05-07
+1953,Maria Alice da Cruz,vendedor,F,1500,1980-06-08,2022-05-08
+1954,Olivia da Conceição,vendedor,F,1500,1980-06-09,2022-05-09
+1955,Juliana Pinto,vendedor,F,1500,1980-06-10,2022-05-10
+1956,Srta. Maitê Araújo,vendedor,F,1500,1980-06-11,2022-05-11
+1957,Melissa Duarte,vendedor,F,1500,1980-06-12,2022-05-12
+1958,Dra. Ana Julia Oliveira,vendedor,F,1500,1980-06-13,2022-05-13
+1959,Yasmin Pinto,vendedor,F,1500,1980-06-14,2022-05-14
+1960,Marcela Nogueira,vendedor,F,1500,1980-06-15,2022-05-15
+1961,Letícia Ferreira,vendedor,F,1500,1980-06-16,2022-05-16
+1962,Sra. Rafaela Caldeira,vendedor,F,1500,1980-06-17,2022-05-17
+1963,Alícia Duarte,vendedor,F,1500,1980-06-18,2022-05-18
+1964,Brenda Nascimento,vendedor,F,1500,1980-06-19,2022-05-19
+1965,Maria Fernanda Lima,vendedor,F,1500,1980-06-20,2022-05-20
+1966,Bianca Souza,vendedor,F,1500,1980-06-21,2022-05-21
+1967,Gabriela Rodrigues,vendedor,F,1500,1980-06-22,2022-05-22
+1968,Emilly da Rosa,vendedor,F,1500,1980-06-23,2022-05-23
+1969,Sra. Sophie Lima,vendedor,F,1500,1980-06-24,2022-05-24
+1970,Heloísa Rocha,vendedor,F,1500,1980-06-25,2022-05-25
+1971,Emanuella Porto,vendedor,F,1500,1980-06-26,2022-05-26
+1972,Ana Sophia Pereira,vendedor,F,1500,1980-06-27,2022-05-27
+1973,Srta. Ana Laura Campos,vendedor,F,1500,1980-06-28,2022-05-28
+1974,Luna Ramos,vendedor,F,1500,1980-06-29,2022-05-29
+1975,Dra. Ana Vitória da Luz,vendedor,F,1500,1980-06-30,2022-05-30
+1976,Maria Alice Pinto,vendedor,F,1500,1980-07-01,2022-05-31
+1977,Maria Julia Rezende,vendedor,F,1500,1980-07-02,2022-06-01
+1978,Ana Júlia Ribeiro,vendedor,F,1500,1980-07-03,2022-06-02
+1979,Ana Luiza Viana,vendedor,F,1500,1980-07-04,2022-06-03
+1980,Ana Luiza Farias,vendedor,F,1500,1980-07-05,2022-06-04
+1981,Sophie Gonçalves,vendedor,F,1500,1980-07-06,2022-06-05
+1982,Sra. Ana Júlia Nogueira,vendedor,F,1500,1980-07-07,2022-06-06
+1983,Marcela Rocha,vendedor,F,1500,1980-07-08,2022-06-07
+1984,Alice Costa,vendedor,F,1500,1980-07-09,2022-06-08
+1985,Ana Beatriz da Luz,vendedor,F,1500,1980-07-10,2022-06-09
+1986,Rebeca Farias,vendedor,F,1500,1980-07-11,2022-06-10
+1987,Dra. Caroline Novaes,vendedor,F,1500,1980-07-12,2022-06-11
+1988,Clarice Duarte,vendedor,F,1500,1980-07-13,2022-06-12
+1989,Emanuelly Nunes,vendedor,F,1500,1980-07-14,2022-06-13
+1990,Srta. Natália Novaes,vendedor,F,1500,1980-07-15,2022-06-14
+1991,Marina Pereira,vendedor,F,1500,1980-07-16,2022-06-15
+1992,Pietra Rocha,vendedor,F,1500,1980-07-17,2022-06-16
+1993,Bárbara da Mata,vendedor,F,1500,1980-07-18,2022-06-17
+1994,Sarah Cardoso,vendedor,F,1500,1980-07-19,2022-06-18
+1995,Alice da Mata,vendedor,F,1500,1980-07-20,2022-06-19
+1996,Ana da Costa,vendedor,F,1500,1980-07-21,2022-06-20
+1997,Daniela Oliveira,vendedor,F,1500,1980-07-22,2022-06-21
+1998,Cecília Lima,gerente,F,,1977-03-05,2022-06-22
+1999,Ana Luiza da Mata,gerente,F,,1969-03-05,2022-06-23
+2000,Rebeca Carvalho,gerente,F,,1989-03-05,2002-06-24

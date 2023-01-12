@@ -1,0 +1,201 @@
+id_produto,produto,valor
+296,fenil,102
+366,metilenodioxifenil,194
+347,anilino-n-phenethylpiperidine - anpp,38
+326,ácido antranílico,273
+290,ácido fenilacético,49
+316,ácido lisérgico,38
+202,ácido n-acetilantranílico,404
+252,anidrido antranílico,44
+218,anidrido propiônico,224
+324,efedrina,203
+339,ergometrina,58
+238,ergotamina,295
+399,etaefedrina,460
+355,gama-butirolactona,154
+333,isosafrol,441
+272,metilergometrina,100
+306,n-metilefedrina,249
+283,n-metilpseudoefedrina,54
+267,n-phenethyl-piperidinone - npp,156
+269,óleo de sassafrás,294
+237,preparações contendo safrol e/ou piperonal,444
+374,piperidina,294
+242,piperonal,114
+264,pseudoefedrina,241
+386,safrol,191
+387,dicloroetano,281
+385,acetato de etila,266
+338,acetona,341
+282,cloreto de etila,399
+255,cloreto de metileno,360
+340,clorofórmio,313
+379,éter etílico,53
+332,metiletilcetona,472
+217,tetrahidrofurano,283
+358,tolueno,7
+279,aminopirina,487
+291,benzocaína,99
+323,cafeína,300
+256,diltiazem,158
+230,dipirona,367
+364,fenacetina,495
+236,hidroxizina,374
+351,levamisol,282
+298,lidocaína,353
+350,manitol,194
+293,paracetamol,108
+308,procaína,40
+208,teofilina,342
+280,tetracaína,249
+214,tetramisol,291
+292,ácido acético,79
+201,ácido benzóico,491
+346,ácido bórico,57
+343,ácido bromídrico,471
+228,ácido clorídrico,225
+368,ácido clorosulfônico,216
+315,ácido fórmico,465
+266,ácido hipofosforoso,188
+336,ácido iodídrico,141
+311,ácido sulfúrico,465
+375,bicarbonato de potássio,283
+400,carbonato de potássio,399
+381,formiato de amônio,34
+390,hidróxido de amônio,480
+234,hidróxido de potássio,461
+212,anidrido acético,270
+250,borohidreto de sódio,301
+301,bromobenzeno,204
+331,butilamina,312
+229,cianoborohidreto de sódio,303
+251,cloreto de amônio,180
+271,cloreto de mercúrio ii,328
+393,cromato de potássio,425
+396,dicromato de potássio,331
+270,dicromato de sódio,378
+281,dietilamina,302
+312,etilamina,226
+245,feniletanolamina,99
+320,formamida,2
+224,fósforo vermelho,391
+239,hidreto de lítio e alumínio,32
+258,hidroxilamina,112
+362,iodo,208
+309,metilamina,88
+365,nitroetano,434
+305,n-metilformamida,67
+248,pentacloreto de fósforo,442
+261,permanganato de potássio,365
+225,acetato de isoamila,395
+376,acetato de isobutila,488
+325,acetato de isopropila,441
+204,acetato de n-butila,373
+322,acetato de n-propila,54
+319,acetato de sec-butila,287
+259,ácido orto-fosfórico,246
+213,aguarrás mineral,279
+220,base de mistura de hidrocarbonetos alifáticos,495
+268,álcool etílico,147
+285,álcool isobutílico,427
+288,álcool isopropílico,459
+263,álcool metílico,449
+337,álcool n-butílico,130
+294,álcool n-propílico,1
+253,álcool sec-butílico,276
+243,amônia,342
+318,benzaldeido,33
+231,benzeno,77
+303,bicarbonato de sódio,66
+219,carbonato de cálcio,484
+277,carbonato de sódio,373
+226,carvão ativado,221
+310,cianeto de benzila,400
+330,cianeto de bromobenzila,251
+373,cicloexano,448
+344,cicloexanona,264
+249,cimento portland ou do tipo portland,1
+246,cloreto de acetila,203
+397,cloreto de alumínio,171
+287,cloreto de benzila,348
+314,cloreto de cálcio (anidro),1
+389,diacetona álcool,250
+361,dióxido de manganês,346
+388,éter de petróleo,422
+380,gasolina,494
+369,hidróxido de cálcio,249
+203,hidróxido de sódio,212
+233,hipoclorito de sódio,137
+307,metabissulfito de sódio,13
+360,metilisobutilcetona,247
+372,n-heptano,465
+348,n-hexano,122
+274,óleo diesel,257
+257,óxido de cálcio,474
+395,óxido de manganês,19
+244,peróxido de hidrogênio,44
+370,piridina,467
+304,propiofenona,227
+377,querosene,72
+216,sulfato de sódio (anidro),64
+278,tetracloroetileno,450
+289,tricloroetileno,306
+359,uréia,490
+222,"xilenos (isômero orto, meta, para e misturas).",322
+382,acetato de medroxiprogesterona 150mg,236
+398,alendronato de sódio 70mg osteoporose,344
+367,atenolol 25mg,228
+284,"brometo de ipratrópio 0,02mg",6
+317,"brometo de ipratrópio 0,25mg",357
+321,budesonida 32mcg rinite,81
+210,captopril 25mg,387
+254,carbidopa 25mg,201
+334,levodopa 250mg,127
+356,cloridrato de benserazida 25mg,440
+275,levodopa 100mg,83
+302,cloridrato de metformina 500mg,306
+247,cloridrato de metformina 850mg,210
+215,cloridrato de propranolol 40mg,152
+297,dipropionato de beclometsona 50mcg,112
+211,dipropionato de beclometsona 200mcg,116
+232,dipropionato de beclometsona 250mcg,73
+209,"etinilestradiol 0,03mg",114
+273,"levonorgestrel 0,15mg",374
+345,glibenclamida 5mg,370
+295,hidroclorotiazida 25mg,213
+353,insulina humana 100ui/ml,231
+383,insulina humana regular 100ui/ml,234
+205,losartana potássica 50mg,98
+354,maleato de enalapril 10mg,285
+341,"maleato de timolol 2,5mg",94
+378,maleato de timolol 5mg,379
+265,"noretisterona 0,35mg",406
+392,sinvastatina 10mg,445
+276,sinvastatina 20mg,24
+260,sinvastatina 40mg,353
+349,sulfato de salbutamol 5mg,41
+329,sulfato de salbutamol 100mcg,360
+262,valerato de estradiol 5mg,319
+384,enantato de noretisterona 50mg,243
+371,propanona,52
+328,engov (brainfarma),454
+241,novalgina (sanofi-aventis),369
+240,lisador (hypera pharma),15
+352,doralgina (neo química),216
+207,sonrisal (gsk),470
+300,doril (cosmed),217
+227,toragesic (ems),194
+335,dipirona n.q (cosmed),17
+327,tylenol (johnson & johnson),478
+286,tamarine (hypera pharma),198
+206,prolopa,17
+357,muvinlax (libbs),496
+363,naturetti (sanofi aventis),370
+299,fibernorm (takeda),323
+391,minilax (eurofarma),299
+313,lacto-purga (hypera pharma),44
+221,tamarine fibras (hypera pharma),330
+223,fiber mais (nestle),259
+342,ducolax (boehringer ingelheim),64
+394,saxenda (novo nordisk),408
+235,alenia,93
